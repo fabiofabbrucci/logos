@@ -80,6 +80,13 @@ header {
       display: block;
       margin: 0 auto;
       max-width: 100%; }
+  .logos__title {
+    display: inline-block;
+    margin-top: 16px;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #999999; }
 
 footer {
   border-top: 1px solid #ccc;
